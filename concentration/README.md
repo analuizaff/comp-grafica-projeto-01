@@ -3,7 +3,7 @@
 
 # Nome: Ana Luiza Ferreira Figueiredo
 # RA: 11121015
-Este é um projeto desenvolvido para a disciplina DA1MCTA008-17SA - Computação Gráfica, implementado usando a biblioteca [abcg](https://github.com/amidos2006/abcg).
+Este é um projeto desenvolvido para a disciplina de Computação Gráfica, implementado usando a biblioteca [abcg](https://github.com/amidos2006/abcg).
 
 ## Instruções
 
